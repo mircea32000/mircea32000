@@ -1,4 +1,4 @@
-# Hi! 👋 My name is Popescu Mircea, and I'm an embedded software engineer from 🇷🇴
+# Hi! 👋 My name is Popescu Mircea, and I'm an embedded software engineer from <img src="https://flagcdn.com/w20/ro.png" alt="Romania" width="20" height="15">
 
 ## 📊 GitHub Stats
 
